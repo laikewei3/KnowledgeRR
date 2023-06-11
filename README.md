@@ -13,4 +13,5 @@ Group Assignment
 * Answer
   * [Criminal Law Expert System Prototype](http://www.mcgoo.com.au/esbuilder/viewer/viewES.php?es=c8d3d44eb6c3dbc82ef2c953c8d55387)
   * [Presentation Slide](https://github.com/laikewei3/KnowledgeRR/blob/main/KRR%20Slide%20-%20Criminal%20Law.pdf)
+  * [User Manual](https://drive.google.com/file/d/1gXlSuVSUHpZxzXaz7JYtG6OarZAVBlfl/view)
   * [Report]()
